@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [https://ashusingh.me](https://ashusingh.me)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **60% of World's Animation is Anime**
+
+Read me articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/ashutosh/)
