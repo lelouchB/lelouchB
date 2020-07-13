@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **60% of World's Animation is Anime**
 
-Read me articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/ashutosh/)
+Read my articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/ashutosh/)
