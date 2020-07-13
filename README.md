@@ -1,17 +1,11 @@
-### Hi there 👋
+[![cover image](https://github.com/lelouchB/lelouchB/blob/master/cover%20image.png)](https://ashusingh.me/)
 
-<!--
-**lelouchB/lelouchB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi. I’m Ashutosh. I develop cool and crazy thing and love to write about JavaScript, React and DevOps. When I am not coding I spend my time watching Anime.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on **Gatsby Projects.**
-- 🌱 I’m currently learning **RedwoodJS.**
-- 👯 I’m looking to collaborate on **Open Source projects.**
-- 🤔 I’m looking for help with **SSR.**
-- 💬 Ask me about **anything.**
-- 📫 How to reach me: [https://ashusingh.me](https://ashusingh.me)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **60% of World's Animation is Anime**
 
-Read my articles on [FreeCodeCamp](https://www.freecodecamp.org/news/author/ashutosh/)
+### Other places you can find me
+
+* 🌐  [Portfolio](https://ashusingh.me)
+* 🐦 [Follow me on Twitter](https://twitter.com/noharashutosh)
+* 📖 [Read on freecodecamp](https://www.freecodecamp.org/news/author/ashutosh/)
+* 📖 [Read on DZone](https://dzone.com/users/3800520/lelouchb.html)
