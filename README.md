@@ -2,6 +2,9 @@
 
 Hi. I’m Ashutosh. I develop cool and crazy thing and love to write about JavaScript, React and DevOps. When I am not coding I spend my time watching Anime.
 
+### Check out my latest posts:
+<!-- dev -->
+<!-- devend -->
 
 ### Other places you can find me
 
