@@ -1,6 +1,6 @@
 [![cover image](https://github.com/lelouchB/lelouchB/blob/master/cover%20image.png)](https://ashusingh.me/)
 
-Hi. I’m Ashutosh. I develop cool and crazy thing and love to write about JavaScript, React and DevOps. When I am not coding I spend my time watching Anime.
+Hi. I’m Ashutosh. I develop cool and crazy things and love to write about JavaScript, React and DevOps. When I am not coding I spend my time watching Anime.
 
 ### Other places you can find me
 
