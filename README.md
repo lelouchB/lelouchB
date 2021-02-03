@@ -1,4 +1,4 @@
-[![cover image](https://github.com/lelouchB/lelouchB/blob/master/cover%20image.png)](https://ashusingh.me/)
+[![cover image](https://github.com/lelouchB/lelouchB/blob/master/cover%20image.png)](https://ashutoshksingh.dev/)
 
 Hi. I’m Ashutosh. I develop cool and crazy things and love to write about JavaScript, React and DevOps. When I am not coding I spend my time watching Anime.
 
