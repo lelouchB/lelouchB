@@ -22,7 +22,7 @@ Have you read my latest article on building an Image Gallery with NextJS using P
 
 ### Other places you can find me
 
-* 🌐  [Portfolio](https://ashusingh.me)
+* 🌐  [Portfolio](https://ashutoshksingh.dev)
 * 🐦 [Follow me on Twitter](https://twitter.com/noharashutosh)
 * 📖 [Read on freecodecamp](https://www.freecodecamp.org/news/author/ashutosh/)
 * 📖 [Read on DZone](https://dzone.com/users/3800520/lelouchb.html)
