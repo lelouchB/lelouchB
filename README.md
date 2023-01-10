@@ -1,6 +1,5 @@
-[![cover image](https://github.com/lelouchB/lelouchB/blob/master/cover%20image.png)](https://ashutoshksingh.dev/)
+![cover image](https://user-images.githubusercontent.com/45850882/211452024-12b18f81-6e08-4f1d-b100-ab32745a2524.png)
 
-Hi. I’m Ashutosh. I develop cool and crazy things and love to write about JavaScript, React and DevOps. When I am not coding I spend my time watching Anime.
 
 <hr />
 <p>
