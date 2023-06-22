@@ -1,5 +1,5 @@
-![cover image](https://user-images.githubusercontent.com/45850882/211452024-12b18f81-6e08-4f1d-b100-ab32745a2524.png)
 
+![Ashutosh K Singh - Learner Builder Developer](https://github.com/lelouchB/lelouchB/assets/45850882/e31cb8e2-2624-4cb5-944b-9f982dc61dc8)
 
 <hr />
 <p>
