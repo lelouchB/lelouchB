@@ -9,4 +9,4 @@
 
 * 🌐  [Portfolio](https://ashutoshksingh.dev)
 * 🐦 [Follow me on Twitter](https://twitter.com/noharashutosh)
-* 📖 [Read on freecodecamp](https://www.freecodecamp.org/news/author/ashutosh/)
+* 📖 [Read on freecodecamp](https://www.freecodecamp.org/news/author/ashutoshksingh/)
